@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373492803996",
+    "firebase_url": "https://coexist-gaming.firebaseio.com",
+    "project_id": "coexist-gaming",
+    "storage_bucket": "coexist-gaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373492803996:android:779eafd9d4a79bc40dc059",
+        "android_client_info": {
+          "package_name": "com.example.coexist_gaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373492803996-mlmnl4ajaf2r86nl18h1v2uej97oibmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHDYQPnxOSJk9vOD_lag5OBCNmP5Ht5Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373492803996-mlmnl4ajaf2r86nl18h1v2uej97oibmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373492803996-0kpum8hu6p31pdv38cri5icqs07qbgoj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.coexist.gaming"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
